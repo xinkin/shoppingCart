@@ -1,5 +1,4 @@
 ## React Assignment
-
 ### Built using Zustand and NextJs
 
 ### Requirements Fullfilled:
